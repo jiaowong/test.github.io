@@ -16,34 +16,33 @@ title: Niels Dutrievoz
 
 ---
 
-## Scientific Articles
+## 代表论著
  
-### 2025
+发表论著（*表示通讯作者）：
 
-- **Ollivier, I., Lauwers, T., Dutrievoz, N., Agosta, C., Casado, M., Fourré, E., Genthon, C., Jossoud, O., Prié, F., Steen-Larsen, H. C., & Landais, A.**  
-  *Time series of the summertime diurnal variability in the atmospheric water vapour isotopic composition at Concordia station, East Antarctica.*  
-  *Earth System Science Data Discussions*, 2025 ***(preprint)***.  
-  [https://doi.org/10.5194/essd-2025-35](https://doi.org/10.5194/essd-2025-35)
+-1 **Collapsing glaciers threaten Asia’s water supplies.**  
+  * Gao, J.* , T. Yao, V. Masson-Delmotte, H. Steen-Larsen and W. Wang. (2019).*  
+  *Nature, 565, 19-21, 2019.  .  
+ 
 
 
-- **Dutrievoz, N., Agosta, C., Risi, C., Vignon, É., Nguyen, S., Landais, A., Fourré, E., Leroy-Dos Santos, C., Casado, M., Masson-Delmotte, V., Jouzel, J., Dubos, T., Ollivier, I., Stenni, B., Dreossi, G., Masiol, M., Minster, B., & Prié, F.**  
-   *Antarctic Water Stable Isotopes in the Global Atmospheric Model LMDZ6: From Climatology to Boundary Layer Processes.*  
-   Journal of Geophysical Research: Atmospheres, 2024.  
-   [DOI: 10.1029/2024JD042073](https://doi.org/10.1029/2024JD042073)
+-2 **Cloud properties and dynamics over the Tibetan Plateau - A review**  
+   *Yuqing Wu, Jing Gao*, Aibin Zhao.*  
+   Earth-Science Reviews, 248(2024), 104633,  
+   (https://doi.org/10.1016/j.earscirev.2023.104633)
 
-### 2024
 
-- **Landais, A., Agosta, C., Vimeux, F., Magand, O., Solis, C., Cauquoin, A., Dutrievoz, N., Risi, C., Leroy-Dos Santos, C., Fourré, E., Cattani, O., Jossoud, O., Minster, B., Prié, F., Casado, M., Dommergue, A., Bertrand, Y., Werner, M.**  
-   *Abrupt excursions in water vapor isotopic variability at the Pointe Benedicte observatory on Amsterdam Island.*  
-   Atmospheric Chemistry and Physics, 2024.  
-   [DOI: 10.5194/acp-24-4611-2024](https://acp.copernicus.org/articles/24/4611/2024/)  
 
-### 2023
+-3 **Spring tropical cyclones modulate near-surface isotopic compositions of atmospheric water vapour in Kathmandu, Nepal.**  
+   *Adhikari N., Gao J*., Zhao A., Xu T., Chen M., Niu X., & Yao T. (2024)*  
+    Atmospheric Chemistry and Physics, 24(5), 3279-3296.  
 
-- **Gorodetskaya, I. V., Durán-Alarcón, C., González-Herrero, S., Clem, K. R., Zou, X., Rowe, P., Rodriguez Imazio, P., Campos, D., Leroy-Dos Santos, C., Dutrievoz, N., Wille, J. D., Chyhareva, A., Favier, V., Blanchet, J., Pohl, B., Cordero, R. R., Park, S.-J., Colwell, S., Lazzara, M. A., Carrasco, J., Gulisano, A. M.**  
-   *Record-high Antarctic Peninsula temperatures and surface melt in February 2022: a compound event with an intense atmospheric river.*  
-   npj Climate and Atmospheric Science, 2023.  
-   [DOI: 10.1038/s41612-023-00529-6](https://www.bas.ac.uk/data/our-data/publication/record-high-antarctic-peninsula-temperatures-and-surface-melt-in-february-2022/)
+
+
+-4 **Temporal variations of stable isotopic compositions in atmospheric water vapor on the Southeastern Tibetan Plateau and their controlling factors.**  
+   *Chen M., Gao J.*, Luo L., Zhao A., Niu X., Yu W., Liu Y. & Chen G. (2024).*  
+    Atmospheric Research, 303, 107328. 
+  
 
 ### 2021
  
