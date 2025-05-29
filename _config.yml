@@ -6,10 +6,10 @@ plugins:
 
 include: ["assets/css/style.css"]
 
-title: "Niels Dutrievoz"
-description: "PhD Student in Polar Climate Modeling"
+title: "gaojingketizu"
+description: "shuitongweisu"
 
-header_image: "images/banner.jpeg"
+header_image: "images/banner111.jpeg"
 
 include:
   - _includes/mathjax.html
