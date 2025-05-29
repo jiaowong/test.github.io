@@ -7,58 +7,27 @@ title: Niels Dutrievoz
 
 {% include mathjax.html %}
 
-# Research  
+# 研究内容 
 
-### 🔬 Keywords  
-Antarctica ⦁ Polar climate ⦁ Water isotopes 
+### 🔬 研究方向 
+水体稳定同位素现代过程和冰芯记录  
 
-### 📌 Research Interests  
-- Polar atmospheric water cycle
-- Cloud processes
-- Climate reconstruction
+### 📌 承担项目  
+- 国家自然科学基金优秀青年科学基金项目，青藏高原水体稳定同位素与水汽传输，2020/1-2022/12、主持。
+- 科技部，第二次青藏高原综合科学考察研究、2019/01-2023/12、在研、任务二专题8第三负责人。
+- 国家自然科学基金面上项目，青藏高原典型冰川雪-冰沉积后过程对冰芯稳定同位素温度重建影响定量研究、2019/01-2022/12、在研、主持。
+- 中国科学院青年创新促进会优秀会员，2019/01-2021/12、在研、主持。
+- 中国科学院A类战略性先导科技专项-联合攻关项目，气候变化影响下亚洲水塔变化及其影响与绿色发展方案，2018/01-2022/12、在研、参加。
+- 国家自然科学基金面上项目，水汽来源和传输对青藏高原南部现代降水和水汽稳定同位素的影响过程研究、2015/01-2018/12、结题、主持。
+- 中国科学院青年创新促进会，2014/01-2017/12、结题、主持。
+- 国际原子能机构国际合作项目，Stable Isotopes in Precipitation and Paleoclimate Archives in Tropical Areas to Improve Regional Hydrological and Climatic Impact Models、2013/07-2016/07、结题、参加。
+- 中国科学院战略先导性科技专项(B)-15课题，青藏高原多层圈相互作用及其资源环境效应、2012/09-2017/09、结题、子课题负责人。
+- 国家自然科学基金重大项目“第三极地球系统中水体的多相态转换及其影响”、2012/01-2015/12、结题、参加。
+- 国家自然科学基金青年基金项目，青藏高原南部降水稳定同位素的高精度大气环流模型模拟与高分辨率台站观测研究、2012/01-2014/12、结题、主持。
 
-### 🛠 Tools & Methods  
-Global Atmospheric Model LMDZ ⦁ Observations ⦁ Water stable isotopes ⦁ Reanalyses outputs ⦁ Global Climate Models outputs
 
----
 
-My research focuses on the **atmospheric water cycle in Antarctica**, with a particular emphasis on **water isotopes**. To investigate this, I use the [**LMDZ6iso global atmospheric model**](https://lmdz.lmd.jussieu.fr/) to simulate isotope dynamics.  
 
-In Antarctica, the study of water isotopes in surface snow, precipitation, and vapour is conducted with a dual objectives: **gaining a deeper understanding of isotopic signals archived in ice cores**, and **deciphering the contributions of different atmospheric processes in driving the water cycle, including boundary layer processes.** 
-
-**Atmospheric general circulation models (AGCMs) with water isotopes** provide a crucial tool for simulating fractionation and transport processes. They allow us to investigate **isotopic signatures across different timescales**, from meteorological events to seasonal and interannual variations, as well as past climate reconstructions within a physically coherent framework.  
-
----
-
-### Study 1: Antarctic Water Stable Isotopes in the Global Atmospheric Model LMDZ6: From Climatology to Boundary Layer Processes  
-
-During my PhD, my first study focuses on **evaluating the LMDZ6iso global atmospheric model** by comparaison with **surface snow isotopes across Antarctica**, as well as **daily precipitation and continuous water vapor isotopes** at two East Antarctic stations: **Dumont d'Urville** (coastal) and **Concordia** (inland). This evaluation examines **spatial, seasonal, and diurnal isotopic variations** in the model.  
-
-Next, I analyzed the **contributions of individual processes to boundary layer water vapor isotopes**, aiming to identify the key drivers of **clear-sky isotopic daily cycles** and to explain discrepancies between model simulations and observations.  
-
-🔹 **At Concordia**, daily isotope variations are mainly driven by **surface sublimation**.  
-🔹 **At Dumont d’Urville**, they are influenced by **both surface sublimation and advection by the katabatic flow**.  
-
-These results suggest that **further improvements in LMDZ6iso** should prioritize **better representation of isotopic exchanges during sublimation and condensation under low temperatures**.
-
-<div align="center">
-    <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD042073" target="_blank">
-        <button style="background-color:#0078D4; color:white; padding:12px 24px; font-size:16px; border:none; border-radius:5px; cursor:pointer;">
-            Access the Article
-        </button>
-    </a>
-</div>  
-
----
-
-### Study 2: Water vapour isotope anomalies during an atmospheric river event at Dome C, East Antarctica (in preparation)
-
-My second study focuses on **analyzing the isotopic anomaly in water vapour** induced by the passage of an **atmospheric river over Concordia** in December 2018. The isotopic composition of water vapour observed during this event can be explained by two key processes:  
-- The isotopic signature of long-range water transport 
-- Local moisture uptake during the event  
-
-Using the LMDZ6iso simulation previously evaluated, we show that **surface sublimation is the primary driver** of the positive isotopic anomaly in vapour, contributing **60% of the total signal**. This sublimation effect is significantly increase during the event compared to typical diurnal cycles. The **remaining 40%** of the anomaly is attributed to **large-scale moisture advection associated with the atmospheric river**.    
-These results highlight that the isotopic signal recorded in water vapor during atmospheric river events reflects a **combination of long-range moisture advection and interactions between the boundary layer and the snowpack**, reinforcing the importance of local surface processes in shaping Antarctic isotope variability.  
 
 <div align="center">
     <a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-18530.html" target="_blank">
